@@ -1,1 +1,1 @@
-hello world
+没实力
