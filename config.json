@@ -1,6 +1,33 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+
+    "title":"记录生活🤓",
+
+    "subTitle":"你好 此博格用github制作！！",
+
+    "avatarUrl":"https://avatars.githubusercontent.com/u/165453323?s=400&u=314ab72b21552d28d4b8a4085563d3486dc017a0&v=4",
+
+    "GMEEK_VERSION":"last",
+
+    "email":"1653218116@qq.com",
+
+    "i18n":"CN",
+
+    "themeMode":"fix",
+
+    "dayTheme":"dark",
+
+    "nightTheme":"dark-blue",
+
+    "commentLabelColor":"#006b75",
+
+    "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
+
+    "singlePage":["about"],
+
+    "bottomText":"Hello",
+
+    "onePageListNum":10,
+
+    "startSite":"06/25/2024"
+
 }
